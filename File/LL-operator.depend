@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1674318424 source:c:\users\lenovo\documents\school projects\assignment-2\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+
